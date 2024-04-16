@@ -10,7 +10,7 @@
     "postinstall": "husky"
   },
   "lint-staged": {
-    "*.{js,ts,jsx,tsx,mdx}": "eslint --fix"
+    "*.{js,ts,jsx,tsx,mdx}": "eslint --cache --fix"
   },
   "dependencies": {
     "@prisma/client": "^5.12.1",
