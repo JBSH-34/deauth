@@ -16,8 +16,6 @@ After the installation is complete, you can start the development server.
 yarn dev
 ```
 
-Ensure to configure [husky](#husky) before committing your code. **Do not** attempt to resolve dependency errors without notifying your team.
-
 ---
 
 ### GitHub Usage Guidelines
